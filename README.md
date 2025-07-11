@@ -1,7 +1,5 @@
 📄 README.md
-md
-Copy
-Edit
+
 # 🔗 LAN Sharing Tool
 
 A lightweight and easy-to-use Python-based tool to **send and receive files over a Local Area Network (LAN)**. The project consists of a server-side app and a client-side app (which can be compiled into an `.exe` for easy sharing).
